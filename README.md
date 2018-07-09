@@ -1,4 +1,4 @@
-#Django 2 + React + bulma
+# Django 2 + React + bulma
 
 
 
